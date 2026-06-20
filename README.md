@@ -90,16 +90,16 @@ Fetch загружает изменения с Github но не применяе
 ![03](screenshots/03_first_commit.png)
 
 ### 4. Репозиторий на GitHub
-![04](screenshots/04_github_repository.png)
+![04](screenshots/screenshots/screenshots/04_github_repository.png)
 
 ### 5. Созданная ветка
-![05](screenshots/05_branch_created.png)
+![05](screenshots/screenshots/screenshots/05_branch_created.png)
 
 ### 6. Результат merge
 ![06](screenshots/06_merge_completed.png)
 
 ### 7. Выполнение Fetch / Pull
-![07](screenshots/07_fetch_or_pull.png)
+![07](screenshots/screenshots/screenshots/07_fetch_or_pull.png)
 
 ### 8. Итоговая история в Git Graph
 ![08](screenshots/08_final_git_graph.png)
