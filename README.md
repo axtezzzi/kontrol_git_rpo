@@ -13,7 +13,7 @@
 | Группа           | [РПО-1]                                 |
 | Дисциплина       | Git и GitHub                            |
 | Дата выполнения  | [17.06.2026]                            |
-| Ссылка на GitHub | [https://github.com/MaximBytecamp/kontrol_git_rpo/]|
+| Ссылка на GitHub | [https://github.com/axtezzzi/kontrol_git_rpo]|
 
 ## Цель работы
 
