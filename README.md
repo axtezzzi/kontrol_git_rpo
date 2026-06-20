@@ -81,10 +81,10 @@ Fetch загружает изменения с Github но не применяе
 ## Скриншоты выполнения работы
 
 ### 1. Созданный проект в VS Code
-![01](screenshots/screenshots/01_repository_created.png)
+![01](screenshots/screenshots/screenshots/01_repository_created.png)
 
 ### 2. Инициализированный репозиторий
-![02](screenshots/screenshots/02_git_initialized.png)
+![02](screenshots/screenshots/screenshots/02_git_initialized.png)
 
 ### 3. Первый коммит
 ![03](screenshots/03_first_commit.png)
