@@ -102,7 +102,7 @@ Fetch загружает изменения с Github но не применяе
 ![07](screenshots/screenshots/screenshots/07_fetch_or_pull.png)
 
 ### 8. Итоговая история в Git Graph
-![08](screenshots/08_final_git_graph.png)
+![08](screenshots/screenshots/screenshots/08_final_git_graph.png)
 
 ## Вывод
 
